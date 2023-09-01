@@ -8,6 +8,7 @@ This is a template repository with a basic Next.js project setup for Bodil's ful
 
 - A basic Next.js app configured with the App Router, TypeScript, and Tailwind CSS.
 - A unit testing setup with Jest and React Testing Library.
+- Packages and a library to query a GeoPackage file for Demographic Statistical Area (DeSO) data.
 
 ## Getting Started
 
